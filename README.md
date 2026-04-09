@@ -79,7 +79,7 @@ The network is tested using ping commands:
 
 ## Screenshots
 
-*<img width="940" height="329" alt="image" src="https://github.com/user-attachments/assets/b593ed0b-704c-444f-b517-d0a0bbdbe97b" />
+<img width="940" height="329" alt="image" src="https://github.com/user-attachments/assets/b593ed0b-704c-444f-b517-d0a0bbdbe97b" />
 * Network Topology
 
 <img width="431" height="304" alt="image" src="https://github.com/user-attachments/assets/5fe09a9d-112c-415b-b334-b3a86b1fe451" />
@@ -89,10 +89,10 @@ The network is tested using ping commands:
 <img width="944" height="402" alt="image" src="https://github.com/user-attachments/assets/2e23eb9e-2259-4d42-8dce-f2368134abcd" />
 * Routing Verification (`show ip interface brief`)
 
-*<img width="472" height="156" alt="image" src="https://github.com/user-attachments/assets/a5e3113c-e22b-4e83-9211-8fc8e9bfc991" />
-*<img width="464" height="156" alt="image" src="https://github.com/user-attachments/assets/b389081f-e3b9-4fd9-874f-3f3e833d74b2" />
-*<img width="460" height="136" alt="image" src="https://github.com/user-attachments/assets/d95fba7d-c716-4824-bc4b-2d342ffe8572" />
-*<img width="471" height="136" alt="image" src="https://github.com/user-attachments/assets/d9e0a3eb-870f-4dec-bf33-8835f0ad9ad5" />
+<img width="472" height="156" alt="image" src="https://github.com/user-attachments/assets/a5e3113c-e22b-4e83-9211-8fc8e9bfc991" />
+<img width="464" height="156" alt="image" src="https://github.com/user-attachments/assets/b389081f-e3b9-4fd9-874f-3f3e833d74b2" />
+<img width="460" height="136" alt="image" src="https://github.com/user-attachments/assets/d95fba7d-c716-4824-bc4b-2d342ffe8572" />
+<img width="471" height="136" alt="image" src="https://github.com/user-attachments/assets/d9e0a3eb-870f-4dec-bf33-8835f0ad9ad5" />
 * Ping Results
 
 ---
